@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Implementing On Back Pressed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_fragment_one">Hello fragment 1</string>
+    <string name="hello_fragment_two">Hello fragment 2</string>
+    <string name="hello_fragment_three">Hello fragment 3</string>
+    <string name="move_to_fragment_3">Move to fragment 3</string>
+    <string name="move_to_fragment_2">Move to fragment 2</string>
+    <string name="switch_text">Move to fragment 1</string>
+</resources>
